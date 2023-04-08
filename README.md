@@ -5,5 +5,5 @@
 
 ## Results
 ### Gender Breakdown
-![gender_breakdown]('/Resources/gender_breakdown.png')
+![gender_breakdown](/Resources/gender_breakdown.png)
 
