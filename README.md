@@ -37,3 +37,13 @@ This heat map shows all the start locations in NYC, and the size/color of the ci
 ![Top Stop Locations](/Resources/end_location.png)
 
 While this heat map shows the top trip ending locations. The combination of these two maps can help confirm the earlier conclusions that most of our subscribers are riding during the commuting hours of 8 am and 6 pm. We can use these maps to see where exactly people are commuting from and where they are commuting too, i.e. where the jobs are located of people who use Citi Bike. This can help inform good starting locations for bikes in future cities of expansion.
+
+## Summary
+
+We can conclude the following from this data:
+  1. The majority of riders are subscribers.
+  2. These riders are mostly using the bikes to commute to and from work on weekdays.
+  3. There are almost 3 times as many male riders as female.
+  4. There is little difference in the start times, weekdays of use, and trip durations between genders. The data is largely the same.
+
+The dig deeper into this analysis I would recommend improving the starting and stopping location heat maps to include gender. Both of these heat maps would have to be seaparated by gender. It would be important to include the unknown gender data since these are all one-time users and do demonstrate slightly different trip duration and weekday behavior than the subscriber data. 
