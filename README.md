@@ -5,7 +5,7 @@
 
 ## Results
 
-Visualizations created in Tableau can be seen here: [link to dashboard](https://public.tableau.com/app/profile/brendan.mcgee/viz/Module_15_Challenge_16807292383560/NYCCitiBikeStory)
+Visualizations created in Tableau can be seen here: [NYC Citi Bike Tableau Story](https://public.tableau.com/app/profile/brendan.mcgee/viz/Module_15_Challenge_16807292383560/NYCCitiBikeStory)
 
 ### Gender Breakdown
 ![gender_breakdown](/Resources/gender_breakdown.png)
